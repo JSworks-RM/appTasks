@@ -1,0 +1,28 @@
+{
+    "todos": [
+        {
+            "title": "Task 1",
+            "responsible": "Nacho",
+            "description": "Acabar los cursos básicos de react, API Rest y NodeJS",
+            "priority": "high"
+        },
+        {
+            "title": "Task 2",
+            "responsible": "Nienke",
+            "description": "Trabajo lanzar nóminas",
+            "priority": "medium"
+        },
+        {
+            "title": "Task 3",
+            "responsible": "Gaia",
+            "description": "Portarse bien",
+            "priority": "low"
+        },
+        {
+            "title": "Task 4",
+            "responsible": "Fenna",
+            "description": "Comer su comida",
+            "priority": "high"
+        }
+    ]
+}
